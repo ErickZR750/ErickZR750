@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ErickZR750
 - 👀 I’m interested in programming but realized I made a terrible mistake
-- 🌱 I’m currently learning C++ at first, and then Python, then Java, then suddenly HTML and PHP but unfortunately never managed to get good at them
+- 🌱 I’m currently learning C++ at first, then Python, then Java, and then suddenly HTML and PHP but unfortunately never managed to get good at them
 - 💞️ I’m looking to collaborate on School Project but likes getting pressurized by deadline
 - 📫 How to reach me <-- I have no clue how to connect this stock word with my poor sentences
 
