@@ -5,5 +5,5 @@
 - 📫 How to reach me <-- I have no clue how to connect this stock word with my poor sentences
 
 
--ErickZR750/ErickZR750 is a ✨ daft ✨ repository because its `README.md` (this file) appears on your GitHub profile. You can click the Preview link to take a look at your changes.
+ErickZR750/ErickZR750 is a ✨ daft ✨ repository because its `README.md` (this file) appears on your GitHub profile. You can click the Preview link to take a look at your changes.
 
