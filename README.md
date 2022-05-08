@@ -1,9 +1,6 @@
 - 👋 Hi, I’m @ErickZR750
-- 👀 I’m interested in programming but realized I made a terrible mistake
-- 🌱 I’m currently learning C++ at first, then Python, then Java, and then suddenly HTML and PHP but unfortunately never managed to get good at them
-- 💞️ I’m looking to collaborate on School Project but likes getting pressurized by deadline
-- 📫 How to reach me <-- I have no clue how to connect this stock word with my poor sentences
+- 👀 I’m interested being a programmer but I regret making this decision
+- 🌱 I’m currently learning HTML, CSS, PHP, JavaScript, and Database with MySQL
+- 💞️ I’m looking forward to learn all these programming languages and hope I can make something presentable.
 
-
-ErickZR750/ErickZR750 is a ✨ daft ✨ repository because its `README.md` (this file) appears on your GitHub profile. You can click the Preview link to take a look at your changes.
-
+Actually, if you're reading this thanks for stopping by, I'm guessing you have the same goal like me, more or less. Wishing you the best luck and hope you can hone your skills for your challenge ahead.
